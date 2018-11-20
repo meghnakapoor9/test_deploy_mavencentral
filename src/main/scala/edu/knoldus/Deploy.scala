@@ -1,5 +1,5 @@
 package edu.knoldus
 
-object deploy {
+object Deploy {
 
 }
